@@ -8,3 +8,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/>
 </div>
+
+
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
+</div>
