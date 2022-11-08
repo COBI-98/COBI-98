@@ -11,5 +11,5 @@
 
 
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
+  [![EUNSH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
 </div>
