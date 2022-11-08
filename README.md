@@ -11,8 +11,17 @@
 
 
 <div align="center">
+  <br>
+  <br>
+  <br>
   
   [![EUNSH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
+  
+</div>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EUNSH1&layout=compact&theme=tokyonight)
   
 </div>
 
