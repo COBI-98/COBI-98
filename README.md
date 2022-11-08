@@ -6,14 +6,12 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/><br>
-  [![EUNSH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
-  
-
+  <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 
 
-
-
+<div align="center">
+![EUNSH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)(https://github.com/EUNSH1/github-readme-stats)
+</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
