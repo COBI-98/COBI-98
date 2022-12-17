@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EUNSH1's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EUNSH1's%20GitHub&descAlignY=51&descAlign=62)
 
 <h2 align="center">⋆ Back-end Stack ⋆</h2>
 <div align="center">
@@ -25,4 +25,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
