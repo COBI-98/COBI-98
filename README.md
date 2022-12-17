@@ -1,6 +1,23 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=EUNSH1's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=COBI's%20GitHub&descAlignY=51&descAlign=62)
 
-<h2 align="center">⋆ Back-end Stack ⋆</h2>
+<div align="center">
+  안녕하세요. 제 이름은 은상현 입니다<br>
+  저는 _______________ 것을 선호하며 백엔드를 공부하고 있습니다.<br><br>
+  1. 배운것을 응용하기위해 기록하는              <br>
+  2. 하나의 코드를 다른 개발자들과 토론, 리뷰하는<br>
+  3. 구현하는 코드를 주석없이 명확히 보여주는    <br>
+  <br>
+  
+  잘 부탁드립니다.
+  
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp COBI의 기록 공간
+</div>
+
+
+<h2 align="center">⋆ Back-end Tech Stack ⋆</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -25,4 +42,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:03b1fc,100:0776de&height=200&section=footer)
