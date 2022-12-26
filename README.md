@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=COBI-98's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=200&section=header&text=Welcome&fontSize=45&animation=fadeIn&fontAlignY=38&desc=COBI-98's%20GitHub&descAlignY=51&descAlign=62)
 
 <div align="center">
   안녕하세요. 제 이름은 은상현 입니다<br>
@@ -52,4 +52,4 @@
   
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:03b1fc,100:0776de&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:03b1fc,100:0776de&height=100&section=footer)
