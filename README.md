@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=COBI's%20GitHub&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=COBI-98's%20GitHub&descAlignY=51&descAlign=62)
 
 <div align="center">
   안녕하세요. 제 이름은 은상현 입니다<br>
@@ -42,13 +42,13 @@
   <br>
   <br>
   
-  [![EUNSH1's GitHub stats](https://github-readme-stats.vercel.app/api?username=EUNSH1)](https://github.com/EUNSH1/github-readme-stats)
+  [![COBI-98's GitHub stats](https://github-readme-stats.vercel.app/api?username=COBI-98)](https://github.com/COBI-98/github-readme-stats)
   
 </div>
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EUNSH1&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COBI-98&layout=compact&theme=tokyonight)
   
 </div>
 
