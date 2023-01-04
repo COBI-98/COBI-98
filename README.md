@@ -33,7 +33,7 @@
 
 <h2 align="center">⋆ Channel ⋆</h2>
 <div align="center" >
-   <a href="https://velog.io/@eun_esh"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp </a>
+   <a href="https://cobi-98.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp </a>
 </div>
 
 
