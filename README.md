@@ -47,6 +47,14 @@
 </div>
 
 <div align="center">
+  <br>
+  <br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkdgus968)](https://solved.ac/tkdgus968/)
+  
+</div>
+
+<div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=COBI-98&layout=compact&theme=tokyonight)
   
