@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:03b1fc,100:0776de&height=200&section=header&text=Welcome&fontSize=45&animation=fadeIn&fontAlignY=38&desc=COBI-98's%20GitHub&descAlignY=51&descAlign=62)
 
 <div align="center">
-  안녕하세요. 제 이름은 은상현 입니다<br>
+  안녕하세요. 제 이름은 은상현 입니다.<br>
   저는 _______________ 것을 선호하며 백엔드를 공부하고 있습니다.<br><br>
   1. 배운것을 응용하기위해 기록하는              <br>
   2. 하나의 코드를 다른 개발자들과 토론, 리뷰하는<br>
