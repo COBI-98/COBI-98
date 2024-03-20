@@ -37,6 +37,19 @@
    <a href="https://cobi-98.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp </a>
 </div>
 
+<div>
+  
+[![블로그 정보](https://blogwidget.com/api/posting-info?blogName=cobi-98)](https://cobi-98.tistory.com/)
+[![게시물](https://blogwidget.com/api/posting/0?blogName=cobi-98)](https://blogwidget.com/api/posting-link/0?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/1?blogName=cobi-98)](https://blogwidget.com/api/posting-link/1?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/2?blogName=cobi-98)](https://blogwidget.com/api/posting-link/2?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/3?blogName=cobi-98)](https://blogwidget.com/api/posting-link/3?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/4?blogName=cobi-98)](https://blogwidget.com/api/posting-link/4?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/5?blogName=cobi-98)](https://blogwidget.com/api/posting-link/5?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/6?blogName=cobi-98)](https://blogwidget.com/api/posting-link/6?blogName=cobi-98)
+[![게시물](https://blogwidget.com/api/posting/7?blogName=cobi-98)](https://blogwidget.com/api/posting-link/7?blogName=cobi-98)
+
+</div>
 
 <div align="center">
   <br>
