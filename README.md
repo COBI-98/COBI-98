@@ -13,6 +13,8 @@
 </div>
 <br>
 
+
+  
 <h2 align="center">⋆ Back-end Tech Stack ⋆</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
@@ -52,6 +54,9 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/COBI-98" height="240"/>
+  </a>
   <br>
   <br>
   <br>
