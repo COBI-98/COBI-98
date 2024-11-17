@@ -7,7 +7,7 @@
 - 배운것을 응용하기위해 기록하는
 - 하나의 코드를 다른 개발자들과 토론, 리뷰하는
 - 구현하는 코드를 주석없이 명확히 보여주는
-- 
+  
 <br>
 
 
@@ -77,6 +77,8 @@
               </td>
   </tr> 
 </table>
+
+<br><br>
 
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
