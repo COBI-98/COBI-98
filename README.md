@@ -1,6 +1,5 @@
 
 ### 🚀 About Me
----
 
 ☺️ 안녕하세요. 신입 백엔드 개발자 은상현 입니다. <br>
 저는 _______________ 것을 선호하며 백엔드를 공부하고 있습니다.
@@ -13,7 +12,6 @@
 
   
 ### ✨ Skills
----
 <div align="center">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/><br>
@@ -33,8 +31,6 @@
 </div>
 
 ### 📖 Blog 
-
----
 <table>
   <tr>
     <td align="center" style="border: 1px solid #ddd; padding: 8px;">
