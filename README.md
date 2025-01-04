@@ -16,10 +16,17 @@
   <img src="https://img.shields.io/badge/SpringBoot-2.7.15-%23437291?logo=SpringBoot&logoColor=%236DB33F&color=%236DB33F"/>
   <img src="https://img.shields.io/badge/Java-17%2B-%23437291?logo=openjdk&logoColor=%23437291"/><br>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-flat-square&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/><br> 
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-28A745?style=for-flat-square&logo=Hibernate&logoColor=white"/><br> 
+  
+  <img src="https://img.shields.io/badge/Nginx-0F9D58?style=flat-square&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/ElasticSearch-7.17.3-FFD54F?style=flat-square&logo=ElasticSearch&logoColor=white"/><br>
+
+  
+  <img src="https://img.shields.io/badge/Jenkins-4D4D4D?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/><br>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
