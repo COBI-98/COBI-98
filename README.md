@@ -13,8 +13,8 @@
   
 ### ✨ Skills
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=Java&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/SpringBoot-2.7.15-%23437291?logo=SpringBoot&logoColor=%236DB33F&color=%236DB33F"/>
+  <img src="https://img.shields.io/badge/Java-17%2B-%23437291?logo=openjdk&logoColor=%23437291"/><br>
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=for-flat-square&logo=MariaDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/><br> 
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
@@ -23,8 +23,8 @@
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-1572B6?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <br>
   <br>
   <br>
