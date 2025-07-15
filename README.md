@@ -26,7 +26,7 @@
 
   
   <img src="https://img.shields.io/badge/Jenkins-4D4D4D?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/><br>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -40,12 +40,12 @@
 ### 📖 Blog 
 <table>
         <tr><td align="center" style="border: 1px solid #ddd; padding: 8px;">
-                <img src="https://via.placeholder.com/100" alt="포스팅 이미지" width="200" height="100"><br>
+                <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FbxE8eW%2FbtsMz5UEE6T%2FAAAAAAAAAAAAAAAAAAAAABZU5kokp8oRfvmm81mkEPl-PqLJPDTyev4GRCjjVj9Y%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3DboKnr%252BqV4M8jariWGGR0Lz8o4Ik%253D" alt="포스팅 이미지" width="150" height="100"><br>
                 <strong><a href="https://cobi-98.tistory.com/89">[Redis] 실시간 검색 성능 최적화를 위한 Redis 정리</a></strong><br>
                 <p style="margin: 0; padding: 0;">서론 실시간 검색, 속도가 전부다 현대의 웹 ...</p>
                 <small style="margin-top: 4px;">3/2/2025</small>
               </td><td align="center" style="border: 1px solid #ddd; padding: 8px;">
-                <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fk8fvc%2FbtsLSB7U8eq%2FIBhn6C42tY6Ua8cvgWnMH1%2Fimg.png" alt="포스팅 이미지" width="200" height="100"><br>
+                <img src="https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2Fk8fvc%2FbtsLSB7U8eq%2FAAAAAAAAAAAAAAAAAAAAAMicJaywHG-7ZjtbYmHQCJ9GMpSvYA3QhXA6rPC6qvq4%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1753973999%26allow_ip%3D%26allow_referer%3D%26signature%3Dsml8j4zZNVgsexMnFNL3HpmV3zQ%253D" alt="포스팅 이미지" width="200" height="100"><br>
                 <strong><a href="https://cobi-98.tistory.com/88">[협업프로젝트] Spring Data Elastic Search 설정 및 구현 회고 (2)</a></strong><br>
                 <p style="margin: 0; padding: 0;">서론 기존 프로젝트에서 검색 엔진을 ELK 스...</p>
                 <small style="margin-top: 4px;">1/19/2025</small>
